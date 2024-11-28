@@ -1,4 +1,4 @@
-package np.com.bimalkafle.mylogin.ui.theme
+package com.factor.dev.mylogin.ui.theme
 
 import android.app.Activity
 import android.os.Build

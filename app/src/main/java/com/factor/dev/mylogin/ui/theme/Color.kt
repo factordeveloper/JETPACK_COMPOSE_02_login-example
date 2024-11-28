@@ -1,4 +1,4 @@
-package np.com.bimalkafle.mylogin.ui.theme
+package com.factor.dev.mylogin.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

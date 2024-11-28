@@ -1,4 +1,4 @@
-package np.com.bimalkafle.mylogin
+package com.factor.dev.mylogin
 
 import org.junit.Test
 
